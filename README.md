@@ -1,4 +1,4 @@
-# T3V3_2AXIS
+# T3V3_2AXIS V1.2
 for T3V3 2AXIS for gremsy - remove PAN axis
 
 # What's new?
